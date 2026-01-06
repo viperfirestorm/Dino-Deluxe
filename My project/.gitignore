@@ -1,0 +1,16 @@
+# Ignore Unity cache / temporary files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# OS
+.DS_Store
+
+# IDE files
+*.csproj
+*.sln
