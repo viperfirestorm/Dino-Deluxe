@@ -26,5 +26,24 @@ This project is currently in early development and is being built collaborativel
 ---
 
 ## 📁 Project Structure
--- Coming soon
+- Coming Soon...
 
+---
+
+## 🚀 Project Setup + Getting Started (For New Developers)
+
+### 1️⃣ Prerequisites
+
+- Git installed
+- Unity Hub installed
+- **Unity 6.3 LTS** installed via Unity Hub
+
+> ⚠️ Make sure you are using the same Unity version as the team.
+
+---
+
+### 2️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/ORG/DinoRTS.git
+cd DinoRTS
